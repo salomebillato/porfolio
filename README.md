@@ -37,7 +37,7 @@ wedsite portfolio
 		<br>
 		<a href="3d.html">3D</a>
 		<div id="salome">
-			<a href="">Salomé Billato</a>
+			<a href="">s</a>
 		</div>
 	</nav>
 </h5>
@@ -55,41 +55,6 @@ wedsite portfolio
 			<!-- Items -->
 			<div class="items">
 
-				<article class="item thumb span-2">
-					<img src="images/image4.jpg" alt=""></a>
-				</article>
-
-				<article class="item thumb span-1">
-					<img src="images/image2.jpg" alt=""></a>
-				</article>
-
-				<article class="item thumb span-2">
-					<img src="images/3Dtissu1.mp4" alt=""></a>
-				</article>
-
-				<article class="item thumb span-2">
-					<img src="images/image3.jpg" alt=""></a>
-				</article>
-
-				<article class="item thumb span-1">
-					<img src="images/image0.jpg" alt=""></a>
-				</article>
-
-				<article class="item thumb span-1">
-					<img src="images/image6.2.jpg" alt=""></a>
-				</article>
-
-				<article class="item thumb span-2">
-					<img src="images/video2.mp4" alt=""></a>
-				</article>
-
-				<article class="item thumb span-2">
-					<img src="images/image6.jpg" alt=""></a>
-				</article>
-
-				<article class="item thumb span-2">
-					<img src="images/image7.jpg" alt=""></a>
-				</article>
 
 				<article class="item thumb span-2">
 					<img src="images/image5.jpg" alt=""></a>
